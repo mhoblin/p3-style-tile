@@ -1,12 +1,9 @@
 /* Set Your Own Margin & Padding */
-h1, h2, h3, p, em {
+h1, h2, h3, p, em, section {
 	margin: 2px 38px;
 	font-family: 'Abel', sans-serif;
 }
 
-.container {
-	padding: 15px;
-}
 
 h1, h2, h3 {
 	font-family: 'Titillium Web', sans-serif;
@@ -48,6 +45,11 @@ img {
 	margin: 0 10px;
 	height: 50px;
 	width: 50px;
+}
+
+.color-1,
+.pattern-1 {
+	margin-left: 38px;
 }
 
 .color-1 {
